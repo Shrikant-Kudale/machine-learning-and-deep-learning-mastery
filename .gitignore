@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+*.onnx
+*.pt
+*.joblib
+.DS_Store
