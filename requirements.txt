@@ -1,0 +1,14 @@
+# Core (all days)
+numpy>=1.26
+scipy>=1.11
+pandas>=2.1
+scikit-learn>=1.4
+joblib>=1.3
+torch>=2.2          # see README for CUDA-specific install commands
+# Day 28 (ONNX export / runtime)
+onnx>=1.16
+onnxruntime>=1.18
+# Optional: used automatically when installed (Day 05, Day 12)
+# xgboost
+# lightgbm
+# shap
